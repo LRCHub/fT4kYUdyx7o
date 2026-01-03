@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Edelied",
+  "base_artist": "Edel Note",
+  "createdAt": "2026-01-03T06:05:45.730687Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Edelied",
+      "artist": "Edel Note",
+      "has_synced": false,
+      "path": "select/01_Edelied_Edel_Note.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Edelied",
+      "artist": "Edel Note",
+      "has_synced": false,
+      "path": "select/pl_01_Edelied_Edel_Note.txt"
+    }
+  ]
+}
